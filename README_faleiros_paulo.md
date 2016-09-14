@@ -3,6 +3,8 @@ Repository to clone and push for the challenge on session 05.
 
 **ADD YOUR TEXT HERE:**
 
+--- My text here ---
+
 STEPS:
 
 1. Fork this repository to your account.
