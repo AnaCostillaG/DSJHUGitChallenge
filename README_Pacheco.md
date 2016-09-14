@@ -1,7 +1,7 @@
 # DSJHUGitChallenge
 Repository to clone and push for the challenge on session 05. 
 
-SESION 5 Hola :)
+SESION 5 Hola, Terminado:)
 
 STEPS:
 
